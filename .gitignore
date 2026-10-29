@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.DS_Store
+.pytest_cache/
+.env
+artifacts/
+cache/
+data/madar.sqlite
+data/inbox.jsonl
+*.sqlite-journal
